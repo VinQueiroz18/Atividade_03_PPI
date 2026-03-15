@@ -1,0 +1,24 @@
+{
+  "name": "atividade_03_ppi",
+  "version": "1.0.0",
+  "description": "Validação servidor",
+  "homepage": "https://github.com/VinQueiroz18/Atividade_03_PPI#readme",
+  "bugs": {
+    "url": "https://github.com/VinQueiroz18/Atividade_03_PPI/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VinQueiroz18/Atividade_03_PPI.git"
+  },
+  "license": "ISC",
+  "author": "Vinicius Queiroz",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
